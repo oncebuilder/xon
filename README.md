@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oncebuilder/xonjs/main/docs/logo.svg" alt="XON Framework Logo" width="200" height="200">
-</p>
 
 <h1 align="center">⚡ XON Framework vBeta</h1>
 
