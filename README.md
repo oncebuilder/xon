@@ -1,5 +1,7 @@
 
-<h1 align="center">⚡ XON Framework vBeta</h1>
+<h1 align="center">⚡ XON Framework vBeta Reference</h1>
+
+<h1 align="center">⚡ XON Framework v1.0.0 Release in January </h1>
 
 <p align="center">
   <strong>Build reactive web applications with HTML attributes only.</strong><br>
@@ -278,7 +280,6 @@ wget https://raw.githubusercontent.com/oncebuilder/xonjs/vBeta/xon.js
 
 
 ### Templates
-
 
 ```
 <!-- Simple template -->
